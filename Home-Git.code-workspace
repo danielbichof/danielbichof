@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Coder Coder Dark Theme",
+		// "workbench.activityBar.visible": false, 
+		"workbench.statusBar.visible": true, 
+
+	}
+}
