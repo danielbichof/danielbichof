@@ -1,18 +1,25 @@
 ### Hello, world! 👋 I'm Daniel
 
-- 🌱 I’m currently learning Javascript, NodeJs, ReactJs, NextJs
+- 📚 I'm student 
 
-- 💼 I’m looking for job/ internship
+- 🖥️ Technologies I'm familiar with, or I'm learning: HTML, CSS(Sass), Javascript, NodeJs, ReactJs, NextJs, SQlite, Mysql
 
-- 📚 I’m student -> undergraduate to analysis and systems development
+- 🔧 Tools: VScode, Git and GitHub
+
+- 💼 I’m looking for job / Internship 
+
+- 🔗 [Linkedin](https://www.linkedin.com/in/daniel-henrique-bichof-alves-0/)
 
 
 ### Olá, mundo! 👋 me chamo Daniel
 
-- 🌱 Eu estou atualmente estudando Javascript, NodeJs, ReactJs, NextJs
+- 📚 Sou estudante - Tecnólogo em Análise e desenvolvimento de sistemas
 
-- 💼 Em busca de emprego / estágio
+- 🖥️ Tecnologias com as quais estou familiarizado ou estou estudando: HTML, CSS(Sass), Javascript, NodeJs, ReactJs, NextJs, SQlite, Mysql
 
-- 📚 Sou estudante -> Gradução em Análise e desenvolvimento de sistemas
+- 🔧 Ferramentas: VScode, Git e GitHub
 
+- 💼 Em busca de emprego / estágio 
+
+- 🔗 [Linkedin](https://www.linkedin.com/in/daniel-henrique-bichof-alves-0/)
 
