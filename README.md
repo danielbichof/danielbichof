@@ -6,8 +6,6 @@
 
 - 🔧 Tools: VScode, Git and GitHub
 
-- 💼 I’m looking for job / Internship 
-
 
 ### Olá, mundo! 👋 me chamo Daniel
 
@@ -16,8 +14,6 @@
 - 🖥️ Tecnologias com as quais estou familiarizado ou estou estudando: HTML, CSS(Sass), Javascript, NodeJs, ReactJs, NextJs, SQlite, Mysql
 
 - 🔧 Ferramentas: VScode, Git e GitHub
-
-- 💼 Em busca de emprego / estágio 
 
 
 <div>
