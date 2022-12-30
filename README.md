@@ -1,20 +1,23 @@
-### Hello, world! 👋 I'm Daniel
+### Hello, world!
 
-- 📚 I'm student 
+- 📚 I'm student - Associate degree 
 
-- 🖥️ Technologies I'm familiar with, or I'm learning: HTML, CSS(Sass), Javascript, NodeJs, ReactJs, NextJs, SQlite, Mysql
+- 🖥️ Technologies I'm familiar with: HTML, CSS(Sass), Javascript, NodeJs, ReactJs, NextJs, SQlite, Mysql
 
-- 🔧 Tools: VScode, Git and GitHub
+- 🔧 Tools: VScode, Git and GitHub, Burp Suite
+
+- 👾💻 Cyber security: Vulnerabilities as (SQLi, XSS, LFI, RFI), offencive security, 
 
 
-### Olá, mundo! 👋 me chamo Daniel
+### Olá, mundo!
 
 - 📚 Sou estudante - Tecnólogo em Análise e desenvolvimento de sistemas
 
-- 🖥️ Tecnologias com as quais estou familiarizado ou estou estudando: HTML, CSS(Sass), Javascript, NodeJs, ReactJs, NextJs, SQlite, Mysql
+- 🖥️ Tecnologias com as quais estou familiarizado: HTML, CSS, Javascript, NodeJs, NextJs, SQlite, Mysql, 
 
-- 🔧 Ferramentas: VScode, Git e GitHub
+- 🔧 Ferramentas: VScode, Git e GitHub, Burp Suite
 
+- 👾💻 Cyber securança: Vulnerabilidades como (SQLi, XSS, LFI, RFI), Segurança ofensiva
 
 <div>
   <a href="https://github.com/Daniel-Bichof">
@@ -28,7 +31,7 @@
   <img align="center" alt="dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="t-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   <hr />
 <div>
