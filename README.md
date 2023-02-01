@@ -2,22 +2,23 @@
 
 - 📚 I'm student - Associate degree 
 
-- 🖥️ Technologies I'm familiar with: HTML, CSS(Sass), Javascript, NodeJs, ReactJs, NextJs, SQlite, Mysql
+- 👾💻 Cyber security: Vulnerabilities OWASP Top 10
+
+- 🖥️ Technologies I'm familiar with: HTML, CSS(Sass), Javascript, NodeJs, NextJs, SQlite, Mysql
 
 - 🔧 Tools: VScode, Git and GitHub, Burp Suite
 
-- 👾💻 Cyber security: Vulnerabilities as (SQLi, XSS, LFI, RFI), offencive security, 
 
 
 ### Olá, mundo!
 
 - 📚 Sou estudante - Tecnólogo em Análise e desenvolvimento de sistemas
 
+- 👾💻 Cyber securança: Vulnerabilidades OWASP Top 10 
+
 - 🖥️ Tecnologias com as quais estou familiarizado: HTML, CSS, Javascript, NodeJs, NextJs, SQlite, Mysql, 
 
 - 🔧 Ferramentas: VScode, Git e GitHub, Burp Suite
-
-- 👾💻 Cyber securança: Vulnerabilidades como (SQLi, XSS, LFI, RFI), Segurança ofensiva
 
 <div>
   <a href="https://github.com/Daniel-Bichof">
