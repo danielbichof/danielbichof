@@ -21,9 +21,9 @@
 - 🔧 Ferramentas: VScode, Git e GitHub, Burp Suite
 
 <div>
-  <a href="https://github.com/Daniel-Bichof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Bichof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Bichof&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/DanielBichof">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBichof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBichof&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  <div style="display: inline_block"><br>
@@ -40,4 +40,4 @@
   </div>
   
   
-![Snake animation](https://github.com/Daniel-Bichof/Daniel-Bichof/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanielBichof/DanielBichof/blob/output/github-contribution-grid-snake.svg)
