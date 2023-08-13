@@ -35,17 +35,19 @@
 </div>
 <br>
 <hr />
-<div style="display: flex;
-  justify-content: space-around" align="center">
+<div align="center">
+
   <a href="https://danielbichof.github.io" target="_blank">
-    <img align="center" height="40" src="./img/mstile-70x70.png" target="_blank">
+    <img align="center" height="40" src="./img/mstile-70x70.png"/>
     <span>My website</span>
-  </a> 
-  
+  </a> &nbsp&nbsp
   <a href="https://www.linkedin.com/in/daniel-henrique-bichof-alves-0" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
 </div>
-  
-  
+
+<!-- 
+[![logo](/img/favicon-32x32.png)](https://danielbichof.github.io)my website
+   -->
+
 ![Snake animation](https://github.com/DanielBichof/DanielBichof/blob/output/github-contribution-grid-snake.svg)
