@@ -35,13 +35,17 @@
 </div>
 <br>
 <hr />
-<div>
+<div style="display: flex; 
+      justify-content: space-evenly;">
   <a href="https://danielbichof.github.io" target="_blank">
-  <img align="center" height="40" src="./img/mstile-70x70.png" target="_blank">
-  <span>my website</span></a> 
+    <img align="center" height="40" src="./img/mstile-70x70.png" target="_blank">
+    <span>my website</span>
+  </a> 
   
-  <a href="https://www.linkedin.com/in/daniel-henrique-bichof-alves-0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+  <a href="https://www.linkedin.com/in/daniel-henrique-bichof-alves-0" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
   
   
 ![Snake animation](https://github.com/DanielBichof/DanielBichof/blob/output/github-contribution-grid-snake.svg)
