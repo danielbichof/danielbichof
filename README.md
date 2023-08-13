@@ -35,11 +35,11 @@
 </div>
 <br>
 <hr />
-<div style="display: flex; 
-      justify-content: space-evenly;">
+<div style="display: flex;
+  justify-content: space-around" align="center">
   <a href="https://danielbichof.github.io" target="_blank">
     <img align="center" height="40" src="./img/mstile-70x70.png" target="_blank">
-    <span>my website</span>
+    <span>My website</span>
   </a> 
   
   <a href="https://www.linkedin.com/in/daniel-henrique-bichof-alves-0" target="_blank">
