@@ -4,7 +4,7 @@
 
 - 👾💻 Cyber security: Vulnerabilities OWASP Top 10, practice with labs
 
-- 🖥️ Technologies I'm familiar with: Javascript, NodeJs, NextJs, SQlite, Mysql, C++, Java 8
+- 🖥️ Technologies I'm familiar with: C++, Java 8, Javascript, NodeJs, NextJs, SQlite, Mysql
 
 - 🔧 Tools: Git, SVN, Linux, Burp Suite, nmap and netcat
 
@@ -15,14 +15,14 @@
 
 - 👾💻 Cyber securança: Vulnerabilidades OWASP Top 10 
 
-- 🖥️ Tecnologias com as quais estou familiarizado: Javascript, NodeJs, NextJs, SQlite, Mysql, C++, Java 8
+- 🖥️ Tecnologias com as quais estou familiarizado: C++, Java 8, Javascript, NodeJs, NextJs, SQlite, Mysql
 
 - 🔧 Ferramentas: Git, SVN, Linux, Burp Suite, nmap e netcat
 
 <div>
-  <a href="https://github.com/DanielBichof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBichof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBichof&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/danielbichof">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbichof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbichof&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  <div style="display: inline_block"><br>
@@ -50,4 +50,4 @@
 [![logo](/img/favicon-32x32.png)](https://danielbichof.github.io)my website
    -->
 
-![Snake animation](https://github.com/DanielBichof/DanielBichof/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielbichof/danielbichof/blob/output/github-contribution-grid-snake.svg)
