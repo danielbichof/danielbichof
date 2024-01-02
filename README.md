@@ -41,7 +41,7 @@
     <img align="center" height="40" src="./img/mstile-70x70.png"/>
     <span>My website</span>
   </a> &nbsp&nbsp
-  <a href="https://www.linkedin.com/in/daniel-henrique-bichof-alves-0" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-bichof/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
