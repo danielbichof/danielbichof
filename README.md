@@ -4,7 +4,7 @@
 
 - 👾💻 Cyber security: Vulnerabilities OWASP Top 10, practice with labs
 
-- 🖥️ Technologies I'm familiar with: C++, Java 8, Javascript, NodeJs, NextJs, SQlite, Mysql
+- 🖥️ Technologies I'm familiar with: C++, Java 8, Javascript, NodeJs, SQlite, Mysql
 
 - 🔧 Tools: Git, SVN, Linux, Burp Suite, nmap and netcat
 
@@ -15,7 +15,7 @@
 
 - 👾💻 Cyber securança: Vulnerabilidades OWASP Top 10 
 
-- 🖥️ Tecnologias com as quais estou familiarizado: C++, Java 8, Javascript, NodeJs, NextJs, SQlite, Mysql
+- 🖥️ Tecnologias com as quais estou familiarizado: C++, Java 8, Javascript, NodeJs, SQlite, Mysql
 
 - 🔧 Ferramentas: Git, SVN, Linux, Burp Suite, nmap e netcat
 
