@@ -1,53 +1,41 @@
-### Hello, world!
+# Olá
 
-- 📚 Student - Tacking degree at Software Engineering & Associate degree System Analysis and Development  
+## Me chamo Daniel! Muito prazer! 
 
-- 👾💻 Cyber security: Vulnerabilities OWASP Top 10, practice with labs
-
-- 🖥️ Technologies I'm familiar with: C++, Java 8, Javascript, NodeJs, SQlite, Mysql
-
-- 🔧 Tools: Git, SVN, Linux, Burp Suite, nmap and netcat
-
-
-### Olá, mundo!
-
-- 📚 Sou estudante - Engenharia de Software & Tecnólogo em Análise e desenvolvimento de sistemas
-
-- 👾💻 Cyber securança: Vulnerabilidades OWASP Top 10 
-
-- 🖥️ Tecnologias com as quais estou familiarizado: C++, Java 8, Javascript, NodeJs, SQlite, Mysql
+- ⚙ Desenvolvedor backend (Focado em Java 8)
+  
+- 🖥️ Tecnologias com as quais estou familiarizado: C++, Java 8, Python, Bash Script, Javascript, NodeJs, SQlite, Mysql
 
 - 🔧 Ferramentas: Git, SVN, Linux, Burp Suite, nmap e netcat
 
+![java](https://img.shields.io/badge/Java-C74634?style=for-the-badge&logo=openjdk&logoColor=black)
+![bash](https://img.shields.io/badge/Bash-303030?style=for-the-badge&logo=gnubash&logoColor=white)
+![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![python](https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python&logoColor=306998)
+![cmake](https://img.shields.io/badge/cmake-373737?style=for-the-badge&logo=cmake&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)
+![owasp](https://img.shields.io/badge/OWASP-3A3999?style=for-the-badge&logo=owasp&logoColor=black)
+![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=black)
+
+##
+
 <div>
   <a href="https://github.com/danielbichof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbichof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbichof&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbichof&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbichof&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
- <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-  <img align="center" alt="t-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</div>
-<br>
-<hr />
-<div align="center">
+##
 
-  <a href="https://danielbichof.github.io" target="_blank">
-    <img align="center" height="40" src="./img/mstile-70x70.png"/>
-    <span>My website</span>
-  </a> &nbsp&nbsp
-  <a href="https://www.linkedin.com/in/daniel-bichof/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<div dir="auto">
+  <a href="https://danielbichof.github.io" target="_blank"><img src="https://img.shields.io/badge/website-1a1a1a?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniel-bichof/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- 
 [![logo](/img/favicon-32x32.png)](https://danielbichof.github.io)my website
    -->
 
+<!--
 ![Snake animation](https://github.com/danielbichof/danielbichof/blob/output/github-contribution-grid-snake.svg)
+-->
