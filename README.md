@@ -2,9 +2,9 @@
 
 ## Me chamo Daniel! Muito prazer! 
 
-- ⚙ Desenvolvedor backend (Focado em Java 8)
+- ⚙ Desenvolvedor backend (Focado em Java)
   
-- 🖥️ Tecnologias com as quais estou familiarizado: C++, Java 8, Python, Bash Script, Javascript, NodeJs, SQlite, Mysql
+- 🖥️ Tecnologias com as quais estou familiarizado: C++, Java, Python, Bash Script, Javascript, NodeJs, SQlite, Mysql
 
 - 🔧 Ferramentas: Git, SVN, Linux, Burp Suite, nmap e netcat
 
